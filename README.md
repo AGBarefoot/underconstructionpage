@@ -1,3 +1,3 @@
 # underconstructionpage
-Página de Site em Construção com Bootstrap.
-Novo layout para a comunidade.
+Under Construction Website with WAI-ARIA
+Educational Project to community.
