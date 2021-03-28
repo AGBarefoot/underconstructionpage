@@ -1,3 +1,3 @@
 # underconstructionpage
-Under Construction Website with WAI-ARIA.
+Under Construction Page with WAI-ARIA.
 Educational Project to community.
